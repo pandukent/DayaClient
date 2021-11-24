@@ -1,0 +1,34 @@
+.home{
+    position: relative;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    background-color: #02A9B5;
+
+    .buttonHome{
+        button{
+                background-color: #FCA103;
+                color:black;
+                margin-right: 5rem;
+                padding: 20px 32px;
+                font-size: 24px;
+                text-align: center;
+                font-weight: bold;
+                display: inline-block;
+                cursor: pointer;
+                border-radius: 12px;
+        }
+     
+    }
+
+    .right{
+        img{
+            margin-left: 10rem;
+            width: 40px;
+            object-fit: cover;
+        }
+    }
+
+}

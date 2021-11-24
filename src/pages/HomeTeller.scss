@@ -1,0 +1,62 @@
+.homeTeller {
+    background-color: #f9a31a;
+
+    .rowBalance{
+      text-align: center;
+    }
+
+    .img-fluid{
+      background-color: #007b7e;
+      width: 10000px;
+      height: 300px;
+      text-align: center;
+    }
+
+  .cardBalance{
+    margin-top: 30px;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: white;
+    border-radius: 13px;
+    color: black;
+
+    .wrapper {
+      height: 150px;
+    }
+    .title {
+        margin-right: -220%;
+        font-weight: bold;
+        font-size: 35px;
+        margin-top: 10%;
+    }
+    .balance {
+      margin-right: -215%;
+      font-size: 30px;
+      margin-bottom: 7px;
+    }
+  }
+
+}
+
+.rowCard{
+  margin-left: 5px;
+
+  .card{
+    margin-top: 35px;
+    margin-left: 25%;
+    font-size: 15px;
+    text-align: center;
+
+    button {
+      background-color: #02A9B5;
+      color: white;
+      padding: 20px 32px;
+      font-size: 17px;
+      text-align: center;
+      font-weight: bold;
+      display: inline-block;
+      cursor: pointer;
+      border-radius: 12px;
+    }
+  }
+}  
